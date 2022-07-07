@@ -126,43 +126,45 @@ El determinante característico es:
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/24.2.png)
 
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/24.3.png)
+
 SECCIÓN 9–4 Método del voltaje en nodos
 
 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
 
 La ecuación actual en el nodo A con respecto a la figura es:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/26.png)
 
 Usando las sustituciones de la ley de Ohm para las corrientes
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/26.1.png)
 
 Multiplicamos cada termino de la última ecuación por (82)(68)(147)=819,672 para eliminar los denominadores
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/26.2.png)
 
 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/28.png)
 
 Sustituyendo en la primera ecuación y simplificamos
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/28.1.png)
 
 Sustituyendo en la segunda ecuación y simplificamos
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/28.2.png)
 
 30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/30.png)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/30.1.png)
 
 Las características del determinante es :
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/30.2.png)
 
 3.2. RESOLUCIÓN DEL CAPÍTULO 10
 
