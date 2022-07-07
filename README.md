@@ -32,103 +32,99 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
 2. Evalúe cada determinante:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/2.png)
 
 4. Evalúe cada uno de los determinantes:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/4.png)
 
 6. Determine I3 en el ejemplo 9-4.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/6.png)
 
 El determinante característico se evaluó como 2,35 en el ejemplo 9-4. El determinante para I3 es:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/6.1.png)
 
 8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/8.png)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/8.1.png)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/8.2.png)
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/8.3.png)
 
 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/10.png)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/10.1.png)
 
 SECCIÓN 9–2 Método de la corriente en ramas
 
 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/12.png)
 
 Resolviendo por sustituciòn
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/12.1.png)
 
 14. Determine la corriente a través de cada resistor mostrado en la figura 9-27
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/14.png)
 
 SECCIÓN 9–3 Método de la corriente en lazos
 
 16. Escriba el determinante característico para las ecuaciones:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/16.png)
 
 La caracterìstica del determiante es:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/16.1.png)
 
 18. Determine las corrientes de rama en la figura 9-28.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/18.png)
 
 Problema 17:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/18.1.png)
 
 Usando las corrientes de lazos del problema 17:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/18.2.png)
 
 20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/20.png)
 
 22. Determine la corriente a través de cada resistor en la figura 9-29.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/22.png)
 
 Problema 21:
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/22.1.png)
 
 Usando las corrientes de los lazos del problema 21:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/22.2.png)
 
 24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/24.png)
 
 La ecuaciòn de lazo es:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/24.1.png)
 
 El determinante característico es:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/24.2.png)
 
 SECCIÓN 9–4 Método del voltaje en nodos
 
