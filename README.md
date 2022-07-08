@@ -10,15 +10,13 @@ Nombre del profesor: Darwin Omar Alulema Flores
 
 Objetivo:
 
-Explicar los métodos para resolver ecuaciones simultáneas y los principios de un campo magnético, mediante la lectura de los capítulos 9 y 10 del libro "Principios de circuitos eléctricos" de Floyd, poder desarrollar correctamente los ejercicios planteados en cada capítulo y aplicar los conocimientos adquiridos en clase.
+Aplicar de manera eficiente los métodos para resolver ecuaciones simultáneas y los principios de un campo magnético, para poder dar una solución adecuada a los ejercicios planteados en estos capítulos.
 
 Objetivos Específicos:
 
-Determinar que métodos existen para resolver ecuaciones simultáneas de manera manuel, es decir sin el uso de la calculadora.
+Dominar los conceptos de flujo magnético dentro del electromagnetismo.
 
-Definir el concepto de flujo magnético dentro del electromagnetismo.
-
-Identificar que enuncia la Ley de Faraday con respecto a la inducción electromagnética.
+Desarrollar optimamente las resoluciones de ecuaciones simultáneas de manera manual.
 
 Márco teórico:
 
@@ -234,11 +232,9 @@ ASA
 
 Conclusiones
 
-Dentro de los métodos para solucionar ecuaciones simultáneas se tiene: la solución por sustitución que netamente puede resolver dos o tres ecuaciones simultaneas en forma estándar mediante una sustitución algebraica, primero determinando una variable en función de las otras. En segundo lugar, está la solución por determinantes en este caso se emplea matrices dependiendo del número de variables y se calcula el determinante de la matriz empleada.
+Se aprendio que el voltaje inducido a través de la bobina es igual al número de vueltas de la bobina multiplicado por la tasa de cambio del flujo magnético.
 
-El flujo magnético se define como un grupo de líneas de fuerza que van del polo norte al polo sur en un imán. El número de líneas que existen dentro del campo magnético determina el valor del flujo, por lo cual la relación entre el campo magnético y el flujo magnético es que entre más líneas haya más intenso será el campo.
-
-Con respecto a la inducción electromagnética la Ley de Faraday enuncia que: el voltaje inducido el voltaje inducido a través de la bobina es igual al número de vueltas de la bobina multiplicado por la tasa de cambio del flujo magnético.
+Los métodos para solucionar ecuaciones simultáneas que se manejaron en estos capitulos son: la solución por sustitución, que puede resolver unicamente dos o tres ecuaciones simultaneas en forma estándar mediante una sustitución algebraica  determinando una variable en función de las otras y la solución por determinantes, en este caso, usamos matrices dependiendo del numero de variables y se calcula el determinante de la matriz empleada.
 
 Bibliografias
 
