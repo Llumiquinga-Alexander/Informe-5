@@ -172,23 +172,23 @@ SECCIÓN 10–1 El campo magnético
 
 2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 µWb. ¿Cuál es la densidad de flujo?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/el2.png)
 
 4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/el4.png)
 
 SECCIÓN 10–2 Electromagnetismo
 
 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/el6.png)
 
 Invertir la dirección de la corriente también invertirá la dirección del flujo magnético debido a la regla de la mano izquierda.
 
 8. Determine la reluctancia de un material con longitud de 0.28m y área de sección transversal de 0.08m^2si la permeabilidad absoluta es de 150×10^(-7)Wb/At*m.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/el8.png)
 
 10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
 
@@ -202,13 +202,11 @@ SECCIÓN 10–4 Histéresis magnética
 
 14. Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0,2 m?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/el14.png)
 
-16. En la figura 10-44, hay 500 vueltas. Determine ![](
+16. En la figura 10-44, hay 500 vueltas. Determine ![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/el16pregun.png)
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/el16.png)
 
 18. De acuerdo con la ley de Faraday, ¿qué sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
 
@@ -222,7 +220,7 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
 22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-5/blob/main/el22.png)
 
 Se ejerce una fuerza en el conductor cuando existe corriente.
 
