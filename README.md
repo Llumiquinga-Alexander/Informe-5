@@ -224,7 +224,7 @@ Se ejerce una fuerza en el conductor cuando existe corriente.
 
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
 
-120 cada segundo.
+El voltaje llegará 120 cada segundo.
 
 Video
 
